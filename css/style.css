@@ -4,8 +4,8 @@ body {margin:0;}
   overflow: hidden;
   position: fixed;
   top: 0;
-  color: red;
-  background-color: black;
+  color: #ff33ff;
+  background-color: #000000;
   width: 100%;
   list-style: none;
   margin: auto;
@@ -23,7 +23,7 @@ body {margin:0;}
 }
 
 .navbar a:active {
-  color: black;
+  color: #000000;
 }
 
 .navbar li {
@@ -31,7 +31,7 @@ body {margin:0;}
 }
 
 .navbar a:hover {
-  color: limegreen;
+  color: #00ff00;
 }
 
 .main {
